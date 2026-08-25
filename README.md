@@ -10,7 +10,7 @@
   </a>
 </p>
 
-<img src="https://i.pinimg.com/736x/be/3c/62/be3c62b8ec5646e1579139fbe3ea5e8a.jpg" alt="Banner" width="100%" />
+<img src="https://i.pinimg.com/736x/14/20/fd/1420fdb2c1b84a55bc9a61e3050b0fa5.jpg" alt="Banner" width="100%" />
 
 ## 📌 About Me
 - I'm currently learning Machine Learning & Data Science ...
